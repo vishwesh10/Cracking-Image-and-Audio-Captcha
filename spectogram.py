@@ -1,8 +1,4 @@
-'''
-Created on 2017.12.9
 
-@author: Richard
-'''
 
 import os
 import librosa.display
