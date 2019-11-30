@@ -18,10 +18,3 @@ for i in list:
 
 print("Done!")
 
-
-'''
-@Author: Atul Kumar Jha
-@Dated: 09-10-19
-@COPYRIGHT 2019
-
-'''
