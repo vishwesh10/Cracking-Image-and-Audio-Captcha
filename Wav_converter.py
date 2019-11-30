@@ -1,7 +1,7 @@
 import os
 from pydub import AudioSegment
 
-path = "./KritiAudio/"
+path = "./CaptchaAudio/"
 
 #Change working directory
 os.chdir(path)
